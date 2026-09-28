@@ -1,0 +1,6 @@
+{
+  "name": "Ethical Hacking Lab & Security Suite",
+  "description": "Interactive ethical hacking, penetration testing labs, vulnerability exploration, and cybersecurity toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
